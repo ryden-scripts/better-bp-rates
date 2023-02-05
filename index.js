@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Better BP rates
 // @namespace    http://tampermonkey.net/
-// @version      0.5
+// @version      0.6
 // @description  Display more meaningful information in the "Your Bonus Points Rate" page
 // @author       ryden
 // @match        https://orpheus.network/bonus.php?action=bprates*
